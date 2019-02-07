@@ -1,0 +1,8 @@
+[package]
+name = "rustedchat"
+version = "0.1.0"
+authors = ["ZePedroResende <j.p.resende68@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+tokio = "0.1"
